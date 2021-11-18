@@ -1,5 +1,3 @@
-Customer, Profit and Sales Report
-
 THE TASK
 
 Visualizing the Sales, Profit and customers summary
