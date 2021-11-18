@@ -12,7 +12,9 @@ Power Query Editor
 
 Techniques:
 
-Data Extraction (ETL)
+Data Loading (ETL)
+
+Data Modelling
 
 Data Analysis
 
